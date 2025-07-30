@@ -2,6 +2,10 @@
 
 A Gen AI-powered College Recommendation System using OpenAI. This app takes user preferences such as location, branch etc. and recommends suitable colleges from a structured dataset.
 
+## GIT Repository Link - 
+
+https://github.com/androidev1/CollegeAssistant
+
 ## Project Structure
 
 ```
