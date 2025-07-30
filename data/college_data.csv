@@ -1,0 +1,31 @@
+College Name,Type,Location,College Rank,Branches Offered,Average Package (INR),Highest Package (INR),Notable Alumni,Student Satisfaction Score (/10),Campus Area (acres),Hostel Available,Facilities,Placement Support,Annual Tuition Fees (INR),Annual Hostel Fees (INR),Scholarship Availability,Entrance Exams Accepted,Cutoff Marks for respected entrance exam,12th Marks Required (%),Application Start,Application End
+IIT Bombay,Public,Mumbai,1,"CSE, EE, ME, CE, AE, CH",18,4500000,"Nandan Nilekani",9.5,550,Yes,"Library, Sports, Labs, Internet, Medical",Excellent,250000,25000,Yes,JEE Advanced,85,75,March 2,April 30
+IIT Delhi,Public,Delhi,2,"CSE, EE, ME, CE, MSE",17,4100000,"Raghuram Rajan",9.4,320,Yes,"WiFi, Labs, Sports, Medical",Excellent,250000,24000,Yes,JEE Advanced,87,75,March 1,April 29
+IIT Madras,Public,Chennai,3,"CSE, EE, ME, CE, OE",16.5,3800000,"Kris Gopalakrishnan",9.3,620,Yes,"Library, Labs, Gym, Clubs",Excellent,250000,23000,Yes,JEE Advanced,84,75,March 5,May 1
+IIT Kanpur,Public,Kanpur,4,"CSE, EE, ME, AE, CE",15.8,3600000,"Narendra Karmarkar",9.2,1055,Yes,"Labs, Sports, Hostels",Excellent,250000,26000,Yes,JEE Advanced,83,75,March 10,April 25
+IIT Kharagpur,Public,Kharagpur,5,"CSE, EE, ME, CE, AE, AR",15.5,3400000,"Arvind Kejriwal",9.1,2100,Yes,"Library, Sports, Innovation Lab",Excellent,250000,25000,Yes,JEE Advanced,82,75,March 1,April 28
+IIT Roorkee,Public,Roorkee,6,"CSE, EE, CE, ME, CH",14.2,3200000,"James Thomason",9,365,Yes,"Labs, Innovation Center, Medical",Excellent,250000,22000,Yes,JEE Advanced,80,75,March 5,April 30
+IIT Guwahati,Public,Guwahati,7,"CSE, EE, CE, ME",13.5,3000000,"Parag Agrawal",8.9,700,Yes,"WiFi, Sports, Hostels",Excellent,250000,21000,Yes,JEE Advanced,78,75,March 15,April 27
+NIT Trichy,Public,Tiruchirappalli,8,"CSE, EE, ME, CE",11.2,2800000,"R. Madhavan",8.7,800,Yes,"Labs, Library, Medical",Very Good,150000,20000,Yes,JEE Main,95,70,April 1,May 15
+NIT Surathkal,Public,Surathkal,9,"CSE, IT, CE, ME",10.8,2600000,"Sudha Murthy",8.6,295,Yes,"WiFi, Labs, Hostels",Very Good,150000,22000,Yes,JEE Main,93,70,April 2,May 12
+NIT Warangal,Public,Warangal,10,"CSE, ECE, ME, CE",10.5,2550000,"Padmasree Warrior",8.5,248,Yes,"Library, Internet, Sports",Very Good,150000,21000,Yes,JEE Main,92,70,April 5,May 10
+IIIT Hyderabad,Public-Private,Hyderabad,11,"CSE, ECE",19,4500000,"Sridhar Vembu",9.1,66,Yes,"WiFi, Incubation Labs",Excellent,300000,25000,Yes,JEE Main,98,80,Feb 15,April 20
+BITS Pilani,Private,Pilani,12,"CSE, EE, ME, CE",14,3500000,"Sabeer Bhatia",8.9,328,Yes,"Innovation Labs, Sports",Very Good,425000,30000,Yes,BITSAT,320,75,Jan 15,April 30
+VIT Vellore,Private,Vellore,13,"CSE, IT, ECE, ME",8.5,4500000,"G.V. Selvam",8.2,250,Yes,"WiFi, Labs, Clubs",Good,198000,25000,Yes,VITEEE,80,70,Dec 1,March 31
+SRM University,Private,Kattankulathur,14,"CSE, ME, CE, ECE",7.5,3000000,"Shri Ravi Pachamoothoo",7.9,250,Yes,"Library, Labs, Medical",Good,200000,25000,Yes,SRMJEEE,75,65,Nov 25,March 30
+Delhi Technological University (DTU),Public,Delhi,15,"CSE, ME, EE, CE",13,2800000,"Vinod Dham",8.4,163,Yes,"Labs, Innovation Center",Very Good,186000,22000,Yes,JEE Main,94,70,March 10,April 30
+NSUT Delhi,Public,Delhi,16,"CSE, IT, ECE",12.5,2750000,"Ashneer Grover",8.3,145,Yes,"WiFi, Library, Start-up Incubator",Very Good,176000,23000,Yes,JEE Main,93,70,March 5,April 28
+Jadavpur University,Public,Kolkata,17,"CSE, ME, CE, EE",6.5,1800000,"Rituparno Ghosh",8.6,58,Yes,"Sports, Library",Very Good,12000,10000,Yes,WBJEE,130,70,Feb 1,March 31
+Anna University,Public,Chennai,18,"CSE, ME, CE, ECE",6.8,2000000,"Mylswamy Annadurai",8.5,185,Yes,"Labs, Internet",Very Good,15000,12000,Yes,TNEA,180,70,May 1,June 30
+Jamia Millia Islamia,Public,Delhi,19,"CSE, CE, EE, ME",5.8,1200000,"Shah Rukh Khan",8.4,254,Yes,"Library, Medical",Very Good,13000,15000,Yes,JEE Main,90,70,April 1,May 10
+University of Delhi,Public,Delhi,20,"BSc, BA, BCom, BTech (limited)",4.2,900000,"Amitabh Bachchan",8.3,300,Yes,"WiFi, Library",Good,20000,12000,Yes,CUET,85,85,March 20,May 15
+Shiv Nadar University,Private,Greater Noida,21,"CSE, EE, CE",9.2,2400000,"Ritesh Agarwal (Founder of OYO)",8.2,286,Yes,"Innovation Labs, Sports",Good,290000,25000,Yes,SNUSAT,65,70,Jan 5,March 30
+Ashoka University,Private,Sonepat,22,"CS, Economics, Humanities",12.1,3000000,"Rahul Bajaj (Industrialist, Guest Lecturer)",9,25,Yes,"Labs, Clubs, Library",Good,800000,35000,Yes,AAT,80,85,Dec 1,Feb 28
+Amity University,Private,Noida,23,"CSE, CE, ME, EE",6.2,1200000,"Kumar Mangalam Birla",7.8,1000,Yes,"WiFi, Labs, Gym",Good,180000,20000,Yes,CUET/Direct,70,65,Jan 10,March 15
+Manipal Institute of Technology,Private,Manipal,24,"CSE, ME, ECE",9.4,2400000,"Satya Nadella (partial)",8.1,313,Yes,"Labs, Innovation Hub",Very Good,320000,27000,Yes,Manipal MET,120,70,Feb 1,April 15
+IIIT Bangalore,Public-Private,Bangalore,25,"CSE, ECE",12.8,3600000,"Rajat Khare (Entrepreneur, Founder of Boundary Holding)",8.7,9,Yes,"Labs, Research Centers",Very Good,300000,24000,Yes,GATE/JEE,90,75,March 5,April 15
+IIIT Allahabad,Public,Allahabad,26,"CSE, IT, ECE",10.2,2700000,"Saurabh Dwivedi (Editor, The Lallantop)",8.6,100,Yes,"WiFi, Labs",Very Good,170000,20000,Yes,JEE Main,92,70,March 15,April 30
+NIT Rourkela,Public,Rourkela,27,"CSE, ME, CE",9.9,2500000,"Pradeep Kumar Sinha (Former Cabinet Secretary of India)",8.4,648,Yes,"Library, Sports, Hostels",Very Good,150000,21000,Yes,JEE Main,91,70,April 3,May 10
+IIT BHU,Public,Varanasi,28,"CSE, EE, ME, CE",13.7,3100000,"Nikesh Arora (CEO, Palo Alto Networks)",8.8,1300,Yes,"Sports, Labs, Innovation Hub",Excellent,250000,25000,Yes,JEE Advanced,79,75,March 10,April 25
+IISc Bangalore,Public,Bangalore,29,"Science, Engineering",18.5,4000000,"C.N.R. Rao",9.6,372,Yes,"Research Labs, Library",Excellent,30000,20000,Yes,JEE Advanced/KVPY,88,85,Feb 1,March 31
+University of Hyderabad,Public,Hyderabad,30,"Science, CS, Economics",7.5,1500000,"K. Sivan",8.2,2300,Yes,"Labs, Internet, Library",Very Good,18000,10000,Yes,CUET,80,80,Feb 15,April 30

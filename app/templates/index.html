@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>College Recommendation Bot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style_1.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <form action="{{ url_for('main.restart') }}" method="get">
+            <button class="btn btn-outline-danger restart-btn" type="submit">🔄 Restart</button>
+        </form>
+
+        <h2 class="mt-4 mb-4 text-center">🎓 College Recommendation Chatbot</h2>
+
+        {% if message %}
+        <div style="color: red; font-weight: bold;">{{ message }}</div>
+        {% endif %}
+
+        <div class="question-box">
+            {% if question %}
+            <form method="POST" class="mb-4">
+                <div class="mb-3">
+                    <label class="form-label"><strong>{{ question }}</strong></label>
+                    <input type="text" name="answer" class="form-control" placeholder="Your answer...">
+                </div>
+                <div>
+                    <button type="submit" class="btn btn-primary">Next</button>
+                    <button type="submit" name="skip" value="true" class="btn btn-secondary">Skip</button>
+                </div>
+            </form>
+            {% endif %}
+        </div>
+
+        {% if user_inputs %}
+        <div class="response-box">
+            <h5><strong>Your Input:</strong></h5>
+            <table class="table table-bordered w-50">
+                <thead>
+                    <tr>
+                        <th>Question</th>
+                        <th>Your Answer</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for key, value in user_inputs.items() %}
+                    <tr>
+                        <td>{{ key }}</td>
+                        <td>{{ value }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endif %}
+
+        <div class="response-table">
+            {% if ai_response and ai_response != "No input provided" %}
+            <h4 class="mt-5">AI Recommended Colleges</h4>
+            <div style="overflow-x: auto; max-width: 100%; margin: auto;">
+                <div style="display: inline-block; min-width: 1000px;">
+                    {{ ai_response | safe }}
+                </div>
+            </div>
+            {% elif has_submitted %}
+            <p class="text-muted text-center">No input provided. Please answer at least one question.</p>
+            {% endif %}
+        </div>
+    </div>
+</body>
+
+</html>

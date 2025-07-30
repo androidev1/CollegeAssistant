@@ -1,0 +1,22 @@
+body {
+            padding: 30px;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: auto;
+        }
+
+        .question-box,
+        .response-box {
+            margin-top: 30px;
+        }
+
+        .response-table {
+            margin-top: 20px;
+        }
+
+        .restart-btn {
+            float: right;
+        }
